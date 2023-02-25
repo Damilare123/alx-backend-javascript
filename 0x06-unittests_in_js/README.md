@@ -1,6 +1,6 @@
 # 0x06. Unittests in JS
 :open_file_folder: Specializations  
-:bust_in_silhouette: by eliyas fiseha.
+:bust_in_silhouette: by John Damilare.
 :copyright: **[alx School](https://www.alx.com/)**  
 :bookmark: chai | integration tests | javascript | mocha | sinon | spies | stubs | test suites | unit tests
 
